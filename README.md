@@ -6,5 +6,6 @@ Alright, this is a well organized and developed organization. Specality is build
 This project will oporate in both an open source / anonymous settings. Layers of code growing in complexity organized in a way to act as a ship to sail and view the world for what it really is.
 
 ## Capabilities
-![image]({[BadgeURLHere](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)})
+![image]({https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white})
+
 Django, Flask, 
