@@ -16,4 +16,8 @@ This project will oporate in both an open source / anonymous settings. Layers of
 
 a cat in gloves catches no mice and a dog with a lot of noise and no walnuts will howl at the moon.
 
+Interested in unlocking sections:
+[Flask](#)
+[Django](#)
+[Plotly](#)
 
