@@ -21,3 +21,8 @@ Interested in unlocking sections:
 [Django](#)
 [Plotly](#)
 
+[Ukraine Map War](https://pipinstallpython.pythonanywhere.com/Ukraine/)
+
+[Aransas Map](https://pipinstallpython.pythonanywhere.com/map/everything/)
+
+
