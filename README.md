@@ -6,7 +6,14 @@ Alright, this is a well organized and developed organization. Specality is build
 This project will oporate in both an open source / anonymous settings. Layers of code growing in complexity organized in a way to act as a ship to sail and view the world for what it really is.
 
 ## Capabilities
-<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/py-icon.svg](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow" alt="Ghost" />
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/jest-icon.svg" alt="Jest Icon" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/testing-library-icon.svg" alt="Testing Library Icon" />
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-pBvv8mzLpj0k-RIbc2Nog?style=social)
+![Discord](https://img.shields.io/discord/1005131057512857682)
+![GitHub followers](https://img.shields.io/github/followers/cryptopotluck?style=social)
+![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PipInstallPython?style=social)
+[![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
+[![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/soolsily)
+
 
 Django, Flask, 
