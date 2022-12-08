@@ -7,4 +7,5 @@ This project will oporate in both an open source / anonymous settings. Layers of
 
 ## Capabilities
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" />
 Django, Flask, 
