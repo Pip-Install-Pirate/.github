@@ -12,7 +12,6 @@ This project will oporate in both an open source / anonymous settings. Layers of
 ![GitHub followers](https://img.shields.io/github/followers/cryptopotluck?style=social)
 ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/PipInstallPython?style=social)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/soolsily)
 
 
